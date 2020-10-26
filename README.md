@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Daniel Vila Boa 👋
+
+I’m the Founder and CEO at [Chilltime](https://www.chilltime.com)
+
+[Daniel Vila Boa @ Linkedin](https://www.linkedin.com/in/danielvilaboa/)
 
 <!--
 **DanielVilaBoa/DanielVilaBoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
