@@ -2,7 +2,8 @@
 
 I’m the Founder and CEO at [Chilltime](https://www.chilltime.com)
 
-[Daniel Vila Boa @ Linkedin](https://www.linkedin.com/in/danielvilaboa/)
+[Linkedin](https://www.linkedin.com/in/danielvilaboa/)
+[GoodReads](https://www.goodreads.com/review/list/43595469?shelf=read)
 
 <!--
 **DanielVilaBoa/DanielVilaBoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
