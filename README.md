@@ -2,7 +2,7 @@
 
 I've been coding and creating products since I was 14. 
 
-I'm currently the Founder and CEO at [Chilltime](https://www.chilltime.com). 
+I'm currently the Founder, Architect and Lead Developer at [Chilltime](https://www.chilltime.com). 
 
 Topics of interest: entrepreneurship, product development, e-commerce, gamification, data analytics, user behavior, growth hacking, digital marketing and AI.
 
