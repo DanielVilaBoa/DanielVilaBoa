@@ -14,6 +14,8 @@ Check out my [GoodReads](https://www.goodreads.com/review/list/43595469?order=d&
 
 ### Technologies I interact with frequently:
 [![React](https://img.shields.io/badge/-React-000?&logo=React)](https://reactjs.org/ "ReactJS")
+[![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=TypeScript)](https://typescriptlang.org/ "TypeScript")
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript)](https://www.w3schools.com/js/ "JavaScript")
 [![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)](https://nodejs.org/en/ "NodeJS")
 [![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)](https://en.wikipedia.org/wiki/HTML "HTML")
 [![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)](https://en.wikipedia.org/wiki/CSS "CSS")
